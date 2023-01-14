@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 85dda62929acb4b46bb63ecd5c31bded
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arms.007
+    second: {fileID: 2100000, guid: 7abad36b9272d4ef8ada00846d0b4e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackClips.007
+    second: {fileID: 2100000, guid: c9c149da357a24550b52f9d081450831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackStraps.007
+    second: {fileID: 2100000, guid: a886549cbd746420c8930332915f54d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BraStrapBuckles.007
+    second: {fileID: 2100000, guid: 77959574db87e40e891bc89c16ce63d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BraStraps.007
+    second: {fileID: 2100000, guid: f4abe1007683c4cd28fa29a73f79ceab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea.007
+    second: {fileID: 2100000, guid: b26c25136d87a4ed4b388c0a15a792d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cups.007
+    second: {fileID: 2100000, guid: 32a7a4e907a994a6498cb59990c60f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ears.007
+    second: {fileID: 2100000, guid: db2ddc58bd2934d71be3b9d5c6ac8439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elastic.002
+    second: {fileID: 2100000, guid: d0b5db2c1d86445e39133e590f2bede9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeMoisture.008
+    second: {fileID: 2100000, guid: c3fb025c134cc4ee1aee0d98d0510b79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeMoisture_Genesis_8_Female_Eyelashes.006
+    second: {fileID: 2100000, guid: 54e006235d5b64f89bc0c6f2c534c0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeSocket.007
+    second: {fileID: 2100000, guid: 2a5a008c3de034e4e91d226e2cfd639c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelashes.007
+    second: {fileID: 2100000, guid: 4da8ba125155a466eae085d370c4deb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face.007
+    second: {fileID: 2100000, guid: 6e4410740ceb44e64908761b2ace9bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fingernails.007
+    second: {fileID: 2100000, guid: fef60b228d24943f6b4734225954d79c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontElastic.007
+    second: {fileID: 2100000, guid: a66c8e2640d0444028c44220dc069778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heels.002
+    second: {fileID: 2100000, guid: 74763a14e88884bc5accf1b9de4f92d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Irises.007
+    second: {fileID: 2100000, guid: 4179680798aed4de7a581acab162197a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lace1.002
+    second: {fileID: 2100000, guid: 7c9b8fbfeecb1451483b02600c470d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lace2.002
+    second: {fileID: 2100000, guid: c611ab1b4ce7d4073b933d6b9448100a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs.007
+    second: {fileID: 2100000, guid: c69b47a198fd34457817cbbf76b96c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lips.007
+    second: {fileID: 2100000, guid: 5c32421a87e844a569578bf2e03c0012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth.007
+    second: {fileID: 2100000, guid: 99b34c9424c42412299cfcb15706a489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panties.007
+    second: {fileID: 2100000, guid: fd175fa1cbdc546ac9f400ffb8b3e484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupils.007
+    second: {fileID: 2100000, guid: 00d8a5bdfd38449cb909f86a9670bf10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sclera.007
+    second: {fileID: 2100000, guid: eb2fa3dcce084495b8b119af85af1b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt1.002
+    second: {fileID: 2100000, guid: 3bb63481dabdc4eb08a1510a36fea7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt1_Bardot_Skirt_(2).002
+    second: {fileID: 2100000, guid: 6b81cbead7ddf40d1ad8396c02747a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt2.002
+    second: {fileID: 2100000, guid: d2958955e931541af8484289ee9c32f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt2_Bardot_Skirt_(2).002
+    second: {fileID: 2100000, guid: 97c3dedbf5928475eba5e8da6dae8099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt3.002
+    second: {fileID: 2100000, guid: 4559b4f1a7d57466d86f45abcaeab52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt3_Bardot_Skirt_(2).002
+    second: {fileID: 2100000, guid: 7e4b9d25355244d2c94f215c37fee5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt4.002
+    second: {fileID: 2100000, guid: 36e2f529362d24e1cbe47c1b92ccbf48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt4_Bardot_Skirt_(2).002
+    second: {fileID: 2100000, guid: aa89bd996dbd2485b87dc4cb8fb7f53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkirtFrill.002
+    second: {fileID: 2100000, guid: d0c8ce6d9a00d4f64bec1bce14397ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkirtFrill_Bardot_Skirt_(2).002
+    second: {fileID: 2100000, guid: b115512a985654b28bddcbdf153a7914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sole.002
+    second: {fileID: 2100000, guid: 38ac5246c368941aaa31cf661da42855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SoleTop.002
+    second: {fileID: 2100000, guid: a458eeaaab2244f75a562cd582ea738e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strap.002
+    second: {fileID: 2100000, guid: 72478facf53d245488d674c5cc60cdd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth.007
+    second: {fileID: 2100000, guid: 960d1ccb096fc414f915f781e19e96ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toenails.007
+    second: {fileID: 2100000, guid: 32a3a5f35282b450aa463850bdd24353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top.002
+    second: {fileID: 2100000, guid: c8f91cefc27ae449e9c6bff872dc253d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torso.007
+    second: {fileID: 2100000, guid: fb587c391eff34a6ca8777ba92a7d69b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Underwire.007
+    second: {fileID: 2100000, guid: a9e633bc22c8345039b1dd6fc31c762f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_attachments_left_blinn
+    second: {fileID: 2100000, guid: c3e21c6a8be664fd3af35115d4e81e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_attachments_left_blinn.001
+    second: {fileID: 2100000, guid: a4eff28100d63439997fd2968ae7b1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_attachments_right_blinn
+    second: {fileID: 2100000, guid: 91e74a6d437b04c24a0ba3b3603ed5e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_attachments_right_blinn.001
+    second: {fileID: 2100000, guid: d7c84baf05abc40a0807dcb5732aa032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_big_wheel_left_blinn
+    second: {fileID: 2100000, guid: 15c6fc4f4336b4fadb4b9da5ff92ef18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_big_wheel_left_blinn.001
+    second: {fileID: 2100000, guid: 1c3d1f112c87c4eafa3671879335c421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_big_wheel_right_blinn
+    second: {fileID: 2100000, guid: 0b7d8c9828457408e83bc4c2f6d7c928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_big_wheel_right_blinn.001
+    second: {fileID: 2100000, guid: e590b7149ced34c74a8fa46513bddb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_main_lambert
+    second: {fileID: 2100000, guid: cf39e7f692ca34378b070207438dad46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_main_lambert.001
+    second: {fileID: 2100000, guid: 47f1b55eda0d349b6bb1e3d2d7a40812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_small_wheels_blinn
+    second: {fileID: 2100000, guid: d7fb21c0737324f5680839af19d0dad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelchair_small_wheels_blinn.001
+    second: {fileID: 2100000, guid: ccd47b0f428324f77a8d7b4f9733e985, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

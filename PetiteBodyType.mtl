@@ -1,0 +1,229 @@
+newmtl Sole
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Strap
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl SoleTop
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Heels
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Skullcap
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.29019609 0.17254902 0.031372551
+Ks 0 0 0
+Km 0
+
+newmtl Base
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.29019609 0.17254902 0.031372551
+Ks 0 0 0
+Km 0
+
+newmtl Bangs
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.29019609 0.17254902 0.031372551
+Ks 0 0 0
+Km 0
+
+newmtl Top
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.29019609 0.17254902 0.031372551
+Ks 0 0 0
+Km 0
+
+newmtl Wisps
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.29019609 0.17254902 0.031372551
+Ks 0 0 0
+Km 0
+
+newmtl Torso
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseTorsoMapD_1002.jpg"
+
+newmtl Face
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseFaceMapD_1001.jpg"
+
+newmtl Lips
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseFaceMapD_1001.jpg"
+
+newmtl Teeth
+d 1
+Kd 1 1 1
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseMouthMapD_1005.jpg"
+
+newmtl Ears
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseFaceMapD_1001.jpg"
+
+newmtl Legs
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg"
+
+newmtl EyeSocket
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseFaceMapD_1001.jpg"
+
+newmtl Mouth
+d 1
+Kd 1 1 1
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseMouthMapD_1005.jpg"
+
+newmtl Arms
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg"
+
+newmtl Pupils
+d 1
+Kd 1 1 1
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseEyes01_1007.jpg"
+
+newmtl EyeMoisture
+d 0
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 0.99607843 0.99215686 0.99215686
+Km 0.0040000002
+
+newmtl Fingernails
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg"
+
+newmtl Cornea
+d 0
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 0.80000001 0.80000001 0.80000001
+Ks 0.99607843 0.99215686 0.99215686
+Km 0.0040000002
+
+newmtl Irises
+d 1
+Kd 1 1 1
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseEyes01_1007.jpg"
+
+newmtl Sclera
+d 1
+Kd 1 1 1
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseEyes01_1007.jpg"
+
+newmtl Toenails
+d 1
+Kd 0.93333334 0.87843138 0.78431374
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg"
+
+newmtl Sole_Bardot_Sandals_(2)
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Strap_Bardot_Sandals_(2)
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl SoleTop_Bardot_Sandals_(2)
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Heels_Bardot_Sandals_(2)
+d 1
+Kd 0.80000001 0.65882355 0.43137255
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Mada/Bardot/FlowerSandals.jpg"
+
+newmtl Panties
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/05_Undies_Base_Color.jpg"
+
+newmtl Panties_Basic_Wear_Panties_(2)
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/05_Undies_Base_Color.jpg"
+
+newmtl Cups
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl Underwire
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl BackStraps
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl BraStraps
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl BraStrapBuckles
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl BackClips
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl FrontElastic
+d 1
+Kd 0.80000001 0.80000001 0.80000001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Bra_Base_Color.jpg"
+
+newmtl Panties_Basic_Wear_Panties_(3)
+d 1
+Ns 0.75
+Ni 0
+Ka 0.098039217 0.098039217 0.098039217
+Kd 1 1 1
+Ks 0.99215686 0.99215686 0.99215686
+Km 0.13500001
+map_Kd "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Undies_Base_Color.jpg"
+map_Bump "/Users/janenguyen/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/ABen/BasicWear8/02_Undies_Height.jpg"
+

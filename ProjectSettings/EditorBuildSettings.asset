@@ -9,16 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Sample Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-<<<<<<< HEAD
     path: Assets/Scenes/ChoosingAvatar.unity
     guid: 43ad89567fdec48b68382a3029582297
   - enabled: 1
     path: Assets/Scenes/Runway.unity
     guid: a3355b722e16b4022b6cdc34da4aca6a
-=======
-    path: Assets/Scenes/ChoosingAvatar Copy.unity
-    guid: 0b570bfef062c47abab6ffc5df34ebb8
->>>>>>> main
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}

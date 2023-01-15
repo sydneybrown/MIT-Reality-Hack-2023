@@ -8,15 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Sample Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ChoosingAvatar Copy.unity
     guid: 0b570bfef062c47abab6ffc5df34ebb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ChoosingAvatar_3.unity
     guid: 07e2e3a4e277549968b5fe210a4dd60b
   - enabled: 1
     path: Assets/Scenes/Runway.unity
     guid: a3355b722e16b4022b6cdc34da4aca6a
+  - enabled: 0
+    path: Assets/Scenes/Runway 1.unity
+    guid: b489f54d6d88949b595a16d57329879a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}

@@ -6,12 +6,10 @@ public class ModelSelector : MonoBehaviour
 {
 	public List<GameObject> models;
 
-	[SerializeField] private int startingModel = 0;
-	private int currentModel;
+	private static int currentModel = 0;
     // Start is called before the first frame update
     void Start()
     {
-        currentModel = startingModel;
 
         models[currentModel].SetActive(true);
     }
@@ -26,6 +24,12 @@ public class ModelSelector : MonoBehaviour
     	Debug.Log(currentModel);
     	models[currentModel].SetActive(true);
 
+
+    }
+
+    public GameObject GetSelection()
+    {
+        return models[currentModel];
 
     }
 }

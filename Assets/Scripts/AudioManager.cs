@@ -9,13 +9,16 @@ public class AudioManager : MonoBehaviour
     [SerializeField] GameObject muteButton;
     [SerializeField] AudioSource audioSource;
 
-    private bool on = true;
+    private static bool on = true;
 	
     // Start is called before the first frame update
     void Start()
     {
         SetAudio();
         audioSource.Play();
+        if(!on)
+        	audioSource.Pause();
+        	
     }
 
 
@@ -38,7 +41,7 @@ public class AudioManager : MonoBehaviour
     void SetAudio()
     {
     	unmuteButton.SetActive(on);
-        muteButton.SetActive(on);
+        muteButton.SetActive(!on);
 
     }
 

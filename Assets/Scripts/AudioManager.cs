@@ -16,8 +16,9 @@ public class AudioManager : MonoBehaviour
     {
         SetAudio();
         audioSource.Play();
-        if(!on)
+        if(!on){
         	audioSource.Pause();
+        }
         	
     }
 
